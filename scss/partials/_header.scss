@@ -1,0 +1,26 @@
+.header{
+   width: 100vw;
+   background-color: tomato;
+   display: flex;
+   padding: .2rem;
+}
+.header_logo{}
+.header_hamburger{
+   margin-left: auto;
+}
+.header_nav{}
+
+.header_nav_bar{
+   display: none;
+
+   .header_nav_bar_item{}
+   .header_nav_bar_item_link{}
+}
+
+.header_nav_col{
+   display: none;
+
+   .header_nav_col_logo{}
+   .header_nav_col_list{}
+   .header_nav_col_list_link{}
+}

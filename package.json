@@ -1,0 +1,20 @@
+{
+  "name": "land.io",
+  "version": "1.0.0",
+  "description": "Michal's test for me",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://konrad29@bitbucket.org/konrad29/michals-test.git"
+  },
+  "author": "Konrad D. Woloszyn",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
